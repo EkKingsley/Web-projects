@@ -1,0 +1,28 @@
+.d1 {
+    width: 100%;
+    
+}
+
+d {
+    width: 100%;
+}
+
+.d2 {
+    float: left;
+    width: 30%;
+}
+
+.d3 {
+    text-align: left;
+    float: right;
+    width: 68%;
+}
+
+h1 {
+    text-align: center;
+    align-content: center;
+}
+
+ul {
+    text-decoration: none;
+}
